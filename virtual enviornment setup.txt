@@ -1,0 +1,12 @@
+#######################################################
+Step 1) Start virtual enviornment 
+py -m venv venv
+
+Step 2) Activate the virtual env
+venv\Scripts\activate
+
+
+Step 3)pip install -r requirements.txt
+
+
+set FLASK_ENV=development
