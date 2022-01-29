@@ -1,7 +1,7 @@
 # How to test
 1) Run app and go to login and type in name to get redirected..
 2) close browswer and go back to /user page see informatino gone because session was cleared
-3) login with name again and then go to browser and type /logout and see redirect to login page becuase session data cleared
+3) login with name again and then go to user and see cached name then type /logout and see redirect to login page becuase session data cleared
 
 Note if you are logged in it will redirect you to user if you go to login page because of sessions
 
